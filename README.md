@@ -1,13 +1,12 @@
-# PanPack Template
-Like the previous template pack, this is a simple "pack" meant to save you time. This time, it's geared more towards pack developers, using my style of folder organization as well as containing Monifactory's Development Tools (build tools, autolint, workspace, etc.) to aid in pack development.
+<h1 align="center">Artificial Kitten-Intellegence</h1>
+<p align="center"><b><i>A Classic Technological Modpack, using Industrial Craft 2 and other mods</i></b></p>
 
 ## Features
-- Build and Release Actions
-- Autolinting
-- Workspace (in the .vscode folder)
-- Codegenerated EN_UD support
-- Autobumping manifest version
-- Issue templates
+- Progression around all mods
+- A complete overhaul of golden era modpack guidelines
+- Draconic Evolution and Avaritia as endgame possibilities
+- Features from newer versions of Minecraft
+
 
 ## Setup
 To set up, just use the template, then follow [Monifactory setup instructions](https://github.com/ThePansmith/Monifactory/blob/main/CONTRIBUTING.md#setting-up-an-instance-repository-for-use-in-dev), but using your minecraft instance and your new repository instead.
